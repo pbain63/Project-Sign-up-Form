@@ -104,10 +104,14 @@ p a {
 button {
   padding: 10px 25px;
   background-color: #004953;
+  font-weight: bold;
   cursor: pointer;
   border-radius: 5px;
   color: white;
+  position: relative;
 }
-button:hover {
-  /* background-color: blueviolet; */
+button:active {
+  top: 3px;
+  color: #004953;
+  background-color: whitesmoke;
 }
