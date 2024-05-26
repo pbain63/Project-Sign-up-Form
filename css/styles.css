@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    /* margin: 30px auto; */
+}
+
+
+
+@font-face {
+    font-family: 'can_dog_tfbregular';
+    src: url('../assets/webfontkit-20240525-121230/can_dog_tfb-webfont.woff2') format('woff2'),
+         url('../assets/webfontkit-20240525-121230/can_dog_tfb-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'super_creamyregular';
+    src: url('../assets/webfontkit-20240525-121230/super_creamy_personal_use-webfont.woff2') format('woff2'),
+         url('../assets/webfontkit-20240525-121230/super_creamy_personal_use-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
