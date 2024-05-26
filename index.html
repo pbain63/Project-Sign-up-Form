@@ -10,7 +10,11 @@
     <div class="container">
       <section class="left-section">
         <div>
-          <img src="./images/girl-with-dog_.jpg" alt="woman with black dog" />
+          <img
+            class="left-section-img"
+            src="./images/girl-with-dog_.jpg"
+            alt="woman with black dog"
+          />
         </div>
       </section>
 
@@ -34,68 +38,81 @@
         </div>
 
         <div class="form-section">
-          <p>Let's do this!</p>
-          <p>Required fields are followed by "*"</p>
+          <p class="bold">Let's do this!</p>
+          <p class="required-para">Required fields are followed by "*"</p>
 
           <form action="#" method="post">
-            <div class="left-side-form">
-              <div>
-                <label for="first-name">FIRST NAME <span>*</span></label>
-                <input type="text" name="first-name" id="first-name" required />
+            <div class="full-form">
+              <div class="left-side-form">
+                <div>
+                  <label for="first-name">FIRST NAME <span>*</span></label>
+                  <input
+                    type="text"
+                    name="first-name"
+                    id="first-name"
+                    required
+                  />
+                </div>
+
+                <div>
+                  <label for="email">EMAIL </label>
+                  <input type="email" name="email" id="email" />
+                </div>
+
+                <div>
+                  <label for="password">PASSWORD <span>*</span></label>
+                  <input
+                    type="password"
+                    name="password"
+                    id="password"
+                    required
+                  />
+                </div>
               </div>
 
-              <div>
-                <label for="email">EMAIL </label>
-                <input type="email" name="email" id="email" />
-              </div>
+              <div class="right-side-form">
+                <div>
+                  <label for="last-name">LAST NAME <span>*</span></label>
+                  <input type="text" name="last-name" id="last-name" required />
+                </div>
 
-              <div>
-                <label for="password">PASSWORD <span>*</span></label>
-                <input type="password" name="password" id="password" required />
+                <div>
+                  <label for="phone-number">PHONE NUMBER <span>*</span></label>
+                  <input
+                    type="tel"
+                    name="phone-number"
+                    id="phone-number"
+                    required
+                  />
+                </div>
+
+                <div>
+                  <label for="confirm-password"
+                    >CONFIRM PASSWORD <span>*</span></label
+                  >
+                  <input
+                    type="password"
+                    name="confirm-password"
+                    id="confirm-password"
+                    required
+                  />
+                </div>
               </div>
             </div>
-
-            <div class="right-side-form">
-              <div>
-                <label for="last-name">LAST NAME <span>*</span></label>
-                <input type="text" name="last-name" id="last-name" required />
-              </div>
-
-              <div>
-                <label for="phone-number">PHONE NUMBER <span>*</span></label>
-                <input
-                  type="tel"
-                  name="phone-number"
-                  id="phone-number"
-                  required
-                />
-              </div>
-
-              <div>
-                <label for="confirm-password"
-                  >CONFIRM PASSWORD <span>*</span></label
-                >
-                <input
-                  type="password"
-                  name="confirm-password"
-                  id="confirm-password"
-                  required
-                />
-              </div>
+            <div>
+              <input
+                type="checkbox"
+                id="terms"
+                name="terms"
+                value="terms"
+                required
+              />
+              <label for="terms"
+                >I Agree to the
+                <a href="#">Therapy Dog Terms and Conditions </a>
+              </label>
             </div>
           </form>
-          <div>
-            <input
-              type="checkbox"
-              id="terms"
-              name="terms"
-              value="terms"
-              required
-            />
-            <label for="terms"
-              >I Agree to the <a href="#">Therapy Dog Terms and Conditions </a>
-            </label>
-          </div>
         </div>
 
         <div class="form-button">
