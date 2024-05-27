@@ -6,7 +6,7 @@ body {
     Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   line-height: 1.2;
   /* margin: 30px 30px 0px 30px; */
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 @font-face {
   font-family: "can_dog_tfbregular";
@@ -132,8 +132,8 @@ input {
 input:invalid {
   border: 1px solid red;
 }
-input:focus:valid {
-  border: 2px solid blue;
+input:valid:focus {
+  border: 1px solid blue;
   box-shadow: 1px 1px 2px black;
 }
 
