@@ -10,20 +10,16 @@ body {
 }
 @font-face {
   font-family: "can_dog_tfbregular";
-  src: url("../assets/webfontkit-20240525-121230/can_dog_tfb-webfont.woff2")
-      format("woff2"),
-    url("../assets/webfontkit-20240525-121230/can_dog_tfb-webfont.woff")
-      format("woff");
+  src: url("../fonts/can_dog_tfb-webfont.woff2") format("woff2"),
+    url("../fonts/can_dog_tfb-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "super_creamyregular";
-  src: url("../assets/webfontkit-20240525-121230/super_creamy_personal_use-webfont.woff2")
-      format("woff2"),
-    url("../assets/webfontkit-20240525-121230/super_creamy_personal_use-webfont.woff")
-      format("woff");
+  src: url("../fonts/super_creamy_personal_use-webfont.woff2") format("woff2"),
+    url("../fonts/super_creamy_personal_use-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
@@ -43,7 +39,11 @@ body {
   width: 100%;
   min-height: 41rem;
 }
-
+.logo-div img {
+  width: 100px;
+  height: 100px;
+  /* border-radius: 50%; */
+}
 .top-right-section {
   background-color: #fdfcfa;
   padding: 2rem 1rem 0.2rem 2rem;
@@ -54,7 +54,7 @@ body {
   font-weight: bold;
   margin: 0;
   padding-top: 15px;
-  text-align:justify;
+  text-align: justify;
 }
 
 .required-para {
@@ -94,7 +94,7 @@ input {
 input:invalid {
   border: 1px solid red;
 }
-input:focus {
+input:focus:valid {
   border: 2px solid blue;
   box-shadow: 1px 1px 2px black;
 }
