@@ -134,7 +134,7 @@ input:invalid {
 }
 input:valid:focus {
   border: 1px solid blue;
-  box-shadow: 1px 1px 2px black;
+  box-shadow: 1px 1px 3px 1px black;
 }
 
 input:hover {
@@ -190,4 +190,21 @@ button:active {
 }
 footer span {
   color: red;
+}
+
+@media only screen and (max-width: 766px) {
+  .container {
+    display: flex;
+    flex-direction: column;
+  }
+  footer {
+    display: none;
+  }
+
+  .logo-div img, .logo-div h2  {
+    display: none;
+  }
+   .logo-div h1{
+    text-align: center;
+  }
 }
