@@ -201,10 +201,20 @@ footer span {
     display: none;
   }
 
-  .logo-div img, .logo-div h2  {
+  .logo-div img,
+  .logo-div h2 {
     display: none;
   }
-   .logo-div h1{
+  .logo-div h1 {
+    top: -9px;
+    left: 85px;
     text-align: center;
+  }
+  .full-form {
+    display: flex;
+    flex-direction: column;
+  }
+  .right-side-form {
+    padding: 0;
   }
 }
