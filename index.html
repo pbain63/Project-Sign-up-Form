@@ -111,8 +111,10 @@
                     name="confirm-password"
                     id="confirm-password"
                     required
+                    onkeyup="validate_password()"
                   />
                 </div>
+                <span id="wrong_pass_alert"></span>
               </div>
             </div>
             <div>
@@ -130,7 +132,7 @@
             </div>
 
             <div class="form-button">
-              <button type="submit">Create Account</button>
+              <button type="submit" id="create">Create Account</button>
               <p>Already have an account? <a href="#">Log in</a></p>
             </div>
           </form>
