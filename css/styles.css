@@ -125,7 +125,7 @@ input:invalid {
 }
 input:valid:focus {
   border: 1px solid blue;
-  box-shadow: 1px 1px 3px 1px black;
+  box-shadow: 1px 1px 2px black;
 }
 
 input:hover {
