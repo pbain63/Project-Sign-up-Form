@@ -7,4 +7,4 @@ Live Preview Link:
 
 https://pbain63.github.io/Project-Sign-up-Form/
 
-Technology: HTML5, CSS
+Technology: HTML5, CSS, JavaScript
