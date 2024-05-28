@@ -1,4 +1,4 @@
-# Project:Sign-up-Form
+# Project: Sign-up-Form
 
 The project is an assignment from a section of "THE ODIN PROJECT". It has form layouts and designs, validating password fields that match each other, images, banner, footer positioning, and many more. 
 
