@@ -1,6 +1,6 @@
 # Project:Sign-up-Form
 
-The project is the assignment from a section of the "THE ODIN PROJECT". It has form layouts design, image, banner, footer positioning and many more. 
+The project is an assignment from a section of "THE ODIN PROJECT". It has form layouts and designs, validating password fields that match each other, images, banner, footer positioning, and many more. 
 
 
 Live Preview Link:
