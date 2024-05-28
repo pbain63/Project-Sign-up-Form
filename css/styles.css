@@ -5,8 +5,6 @@ body {
   font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   line-height: 1.2;
-
-  /* overflow: hidden; */
 }
 @font-face {
   font-family: "can_dog_tfbregular";
