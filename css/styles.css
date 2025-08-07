@@ -7,12 +7,12 @@ body {
   margin: 0;
   padding: 0;
   height: 100vh;
-  font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: sans-serif, Roboto, "Segoe UI", Helvetica, Arial,
+    "Apple Color Emoji", "Segoe UI Emoji", system-ui, "Segoe UI Symbol";
   line-height: 1.2;
 }
 @font-face {
-  font-family: "can_dog_tfbregular";
+  font-family: "can_dog_tfbregular", sans-serif;
   src: url("../fonts/can_dog_tfb-webfont.woff2") format("woff2"),
     url("../fonts/can_dog_tfb-webfont.woff") format("woff");
   font-weight: normal;
@@ -20,7 +20,7 @@ body {
 }
 
 @font-face {
-  font-family: "super_creamyregular";
+  font-family: "super_creamyregular", sans-serif;
   src: url("../fonts/super_creamy_personal_use-webfont.woff2") format("woff2"),
     url("../fonts/super_creamy_personal_use-webfont.woff") format("woff");
   font-weight: normal;
@@ -32,6 +32,9 @@ body {
 }
 
 .container {
+  /* width: 80%; */
+  /* max-width: 1200px; */
+  /* margin: 0 auto; */
   display: flex;
 }
 
@@ -53,7 +56,7 @@ body {
   opacity: 0.2;
 }
 .logo-div h1 {
-  font-family: "super_creamyregular";
+  font-family: "super_creamyregular", sans-serif;
   color: white;
   font-size: 60px;
   position: absolute;
@@ -61,7 +64,7 @@ body {
   right: 105px;
 }
 .logo-div h2 {
-  font-family: "can_dog_tfbregular";
+  font-family: "can_dog_tfbregular", sans-serif;
   color: white;
   font-size: 60px;
   position: absolute;
@@ -172,18 +175,18 @@ button:active {
   background-color: whitesmoke;
 }
 .foot-note-left {
-  font-family: system-ui, "Segoe UI", sans-serif;
+  font-family: sans-serif, "Segoe UI", system-ui;
   font-size: 12px;
   position: absolute;
   bottom: 0.9rem;
   left: 10rem;
 }
 .foot-note-right {
-  font-family: system-ui, "Segoe UI", sans-serif;
+  font-family: sans-serif, "Segoe UI", system-ui;
   font-size: 12px;
-  position: absolute;
-  bottom: 0.9rem;
-  right: 19rem;
+  /* position: absolute; */
+  /* bottom: 0.9rem; */
+  /* right: 19rem; */
 }
 footer span {
   color: red;
