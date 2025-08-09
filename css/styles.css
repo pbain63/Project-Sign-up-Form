@@ -80,6 +80,7 @@ body {
 }
 .right-section {
   border: 2px solid blue;
+  padding-right: 3rem;
 }
 .top-right-section {
   background-color: #fdfcfa;
@@ -103,12 +104,13 @@ body {
 }
 .full-form {
   display: flex;
+  gap: 3rem;
 }
 .form-section > p + p {
   font-size: 12px;
 }
 .right-side-form {
-  padding-left: 10rem;
+  /* padding-left: 10rem; */
 }
 label {
   display: block;
@@ -193,7 +195,7 @@ footer span {
   color: red;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1050px) {
   .container {
     display: flex;
     flex-direction: column;
