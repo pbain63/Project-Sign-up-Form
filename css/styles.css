@@ -35,12 +35,13 @@ body {
 }
 
 .left-section {
-  min-width: 45%;
+  min-width: 50%;
   position: relative;
 }
 .left-section-img {
   width: 100%;
-  min-height: 41rem;
+  /* max-width: 100%; */
+  /* height: 41rem; */
 }
 
 .logo-text-background {
@@ -119,7 +120,7 @@ input {
   width: 100%;
   padding: 5px;
   height: 30px;
-  border: 1px solid #e5e7eb;
+  /* border: 1px solid #e5e7eb; */
   border-radius: 5px;
 }
 input:invalid {
