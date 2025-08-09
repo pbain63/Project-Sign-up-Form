@@ -32,9 +32,11 @@ body {
   /* max-width: 1200px; */
   /* margin: 0 auto; */
   display: flex;
+  gap: 5rem;
 }
 
 .left-section {
+  border: 2px solid blue;
   min-width: 50%;
   position: relative;
 }
@@ -76,10 +78,12 @@ body {
   left: 30px;
   border-radius: 50%;
 }
-
+.right-section {
+  border: 2px solid blue;
+}
 .top-right-section {
   background-color: #fdfcfa;
-  padding: 2rem 1rem 0.2rem 2rem;
+  padding: 2rem 0rem 0.2rem 0rem;
 }
 
 .bold,
@@ -95,7 +99,7 @@ body {
   margin-bottom: 10px;
 }
 .form-section {
-  padding-left: 2rem;
+  padding-left: 0rem;
 }
 .full-form {
   display: flex;
