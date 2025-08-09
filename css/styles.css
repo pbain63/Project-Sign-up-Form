@@ -80,7 +80,7 @@ body {
 }
 .right-section {
   border: 2px solid blue;
-  padding-right: 3rem;
+  /* padding-right: 3rem; */
 }
 .top-right-section {
   background-color: #fdfcfa;
@@ -212,6 +212,10 @@ footer span {
     top: -9px;
     left: 85px;
     text-align: center;
+  }
+  .right-section {
+    width: 90%;
+    margin: 0 auto;
   }
   .full-form {
     display: flex;
