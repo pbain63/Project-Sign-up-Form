@@ -181,6 +181,7 @@ button:active {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 3rem;
   margin-top: 3rem;
 }
 .footer span {
@@ -208,6 +209,9 @@ button:active {
   }
   footer {
     /* display: none; */
+    width: 90%;
+    margin: 0 auto;
+    flex-direction: column;
   }
 
   .logo-div img,
