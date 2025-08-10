@@ -180,9 +180,9 @@ button:active {
 .foot-note-left {
   font-family: sans-serif, "Segoe UI", system-ui;
   font-size: 12px;
-  position: absolute;
-  bottom: 0.9rem;
-  left: 10rem;
+  /* position: absolute; */
+  /* bottom: 0.9rem; */
+  /* left: 10rem; */
 }
 .foot-note-right {
   font-family: sans-serif, "Segoe UI", system-ui;
@@ -201,7 +201,7 @@ footer span {
     flex-direction: column;
   }
   footer {
-    display: none;
+    /* display: none; */
   }
 
   .logo-div img,
