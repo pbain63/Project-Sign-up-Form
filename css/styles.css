@@ -177,6 +177,15 @@ button:active {
   color: #004953;
   background-color: whitesmoke;
 }
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 3rem;
+}
+.footer span {
+  color: red;
+}
 .foot-note-left {
   font-family: sans-serif, "Segoe UI", system-ui;
   font-size: 12px;
@@ -190,9 +199,6 @@ button:active {
   /* position: absolute; */
   /* bottom: 0.9rem; */
   /* right: 19rem; */
-}
-footer span {
-  color: red;
 }
 
 @media (max-width: 1050px) {
