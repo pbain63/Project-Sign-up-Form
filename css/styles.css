@@ -204,6 +204,7 @@ button:active {
 
 @media (max-width: 1050px) {
   .container {
+    width: 100%;
     display: flex;
     flex-direction: column;
   }
