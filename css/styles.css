@@ -12,7 +12,7 @@ body {
   line-height: 1.2;
 }
 @font-face {
-  font-family: "can_dog_tfbregular", sans-serif;
+  font-family: "can_dog_tfbregular";
   src: url("../fonts/can_dog_tfb-webfont.woff2") format("woff2"),
     url("../fonts/can_dog_tfb-webfont.woff") format("woff");
   font-weight: normal;
@@ -20,7 +20,7 @@ body {
 }
 
 @font-face {
-  font-family: "super_creamyregular", sans-serif;
+  font-family: "super_creamyregular";
   src: url("../fonts/super_creamy_personal_use-webfont.woff2") format("woff2"),
     url("../fonts/super_creamy_personal_use-webfont.woff") format("woff");
   font-weight: normal;
