@@ -50,6 +50,9 @@ body {
   justify-content: center;
   align-items: center;
   gap: 2rem;
+  background-color: #333;
+  color: white;
+  opacity: 0.2;
 }
 .logo-image {
   width: 5rem;
