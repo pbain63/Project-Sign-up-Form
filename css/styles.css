@@ -67,6 +67,10 @@ body {
   font-family: "super_creamyregular", sans-serif;
   font-weight: 900;
 }
+.logo-div h2 {
+  font-family: "can_dog_tfbregular", sans-serif;
+  font-weight: 900;
+}
 /* .logo-div {
   width: 100%;
   height: 10rem;
