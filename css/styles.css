@@ -57,6 +57,7 @@ body {
   top: 10%;
   /* left: 30%; */
   width: 100%;
+  padding: 1rem 0;
 }
 .logo-image {
   width: 5rem;
