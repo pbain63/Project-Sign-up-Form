@@ -248,10 +248,10 @@ button:active {
   .logo-div h2 {
     display: none;
   }
-  .logo-div h1 {
-    top: -9px;
-    left: 85px;
-    text-align: center;
+  .logo-div {
+    /* top: -9px; */
+    /* left: 85px; */
+    /* text-align: center; */
   }
   .right-section {
     width: 90%;
