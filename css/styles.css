@@ -66,10 +66,12 @@ body {
 .logo-div h1 {
   font-family: "super_creamyregular", sans-serif;
   font-weight: 900;
+  font-size: 3rem;
 }
 .logo-div h2 {
   font-family: "can_dog_tfbregular", sans-serif;
   font-weight: 900;
+  font-size: 3rem;
 }
 /* .logo-div {
   width: 100%;
