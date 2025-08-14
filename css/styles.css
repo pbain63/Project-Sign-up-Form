@@ -258,7 +258,9 @@ button:active {
   .right-section {
     width: 90%;
     margin: 0 auto;
+    padding-left: 0;
   }
+
   .full-form {
     display: flex;
     flex-direction: column;
