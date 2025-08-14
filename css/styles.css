@@ -220,14 +220,14 @@ button:active {
 }
 .foot-note-left {
   font-family: sans-serif, "Segoe UI", system-ui;
-  font-size: 12px;
+  font-size: 0.75rem;
   /* position: absolute; */
   /* bottom: 0.9rem; */
   /* left: 10rem; */
 }
 .foot-note-right {
   font-family: sans-serif, "Segoe UI", system-ui;
-  font-size: 12px;
+  font-size: 0.75rem;
   /* position: absolute; */
   /* bottom: 0.9rem; */
   /* right: 19rem; */
