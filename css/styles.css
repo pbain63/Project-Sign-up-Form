@@ -37,7 +37,7 @@ body {
 }
 
 .left-section {
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   min-width: 50%;
   position: relative;
 }
