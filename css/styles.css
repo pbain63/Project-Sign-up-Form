@@ -10,6 +10,7 @@ body {
   font-family: sans-serif, Roboto, "Segoe UI", Helvetica, Arial,
     "Apple Color Emoji", "Segoe UI Emoji", system-ui, "Segoe UI Symbol";
   line-height: 1.2;
+  background-color: #fdfcfa;
 }
 @font-face {
   font-family: "can_dog_tfbregular";
@@ -114,7 +115,7 @@ body {
   padding-left: 5rem;
 }
 .top-right-section {
-  background-color: #fdfcfa;
+  /* background-color: #fdfcfa; */
   padding: 2rem 0rem 0.2rem 0rem;
 }
 
