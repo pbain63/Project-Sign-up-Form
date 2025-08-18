@@ -46,6 +46,7 @@ body {
   width: 100%;
 }
 .logo-div {
+  /* border: 2px solid red; */
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,11 +69,11 @@ body {
   font-weight: 900;
   font-size: 3rem;
 }
-.logo-div h2 {
+/* .logo-div h2 {
   font-family: "can_dog_tfbregular", sans-serif;
   font-weight: 900;
   font-size: 3rem;
-}
+} */
 
 .right-section {
   /* border: 2px solid blue; */
