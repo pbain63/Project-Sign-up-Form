@@ -184,7 +184,7 @@ button:active {
   justify-content: center;
   align-items: center;
   gap: 3rem;
-  margin-top: 3rem;
+  margin-top: 7rem;
 }
 .footer span {
   color: red;
@@ -203,6 +203,10 @@ button:active {
     width: 100%;
     display: flex;
     flex-direction: column;
+  }
+  .left-section-img,
+  .required-para {
+    margin-bottom: 5rem;
   }
   footer {
     width: 90%;
