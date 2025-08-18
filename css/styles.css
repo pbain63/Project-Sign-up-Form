@@ -226,8 +226,8 @@ button:active {
   }
 
   .full-form {
-    display: flex;
     flex-direction: column;
+    gap: 0;
   }
   .right-side-form {
     padding: 0;
