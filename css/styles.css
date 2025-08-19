@@ -208,11 +208,6 @@ button:active {
   .required-para {
     margin-bottom: 5rem;
   }
-  footer {
-    width: 90%;
-    margin: 0 auto;
-    flex-direction: column;
-  }
 
   .logo-div img,
   .logo-div h2 {
@@ -235,5 +230,10 @@ button:active {
   }
   .right-side-form {
     padding: 0;
+  }
+  footer {
+    width: 90%;
+    margin: 0 auto;
+    flex-direction: column;
   }
 }
