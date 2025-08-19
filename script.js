@@ -4,7 +4,7 @@ function validate_password() {
 
   if (password !== confirmPassword) {
     document.getElementById("wrong_pass_alert").style.color = "red";
-    document.getElementById("wrong_pass_alert").style.fontSize = "10px";
+    document.getElementById("wrong_pass_alert").style.fontSize = "0.625rem";
     document.getElementById("wrong_pass_alert").textContent =
       "☒ Passwords are incorrect";
 
@@ -12,7 +12,7 @@ function validate_password() {
     document.getElementById("create").style.opacity = 0.3;
   } else {
     document.getElementById("wrong_pass_alert").style.color = "green";
-    document.getElementById("wrong_pass_alert").style.fontSize = "10px";
+    document.getElementById("wrong_pass_alert").style.fontSize = "0.625rem";
     document.getElementById("wrong_pass_alert").textContent =
       "✓ Password matched";
 
