@@ -85,3 +85,7 @@ Project-Sign-up-Form/
 - Inspired by learning projects from The Odin Project.
 
 - Icons and fonts (if used) are from free resources.
+
+## License
+
+This project is licensed under the MIT License – feel free to use and modify it.
