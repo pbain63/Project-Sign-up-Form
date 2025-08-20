@@ -71,3 +71,17 @@ Project-Sign-up-Form/
 - Designing a user-friendly, accessible UI.
 
 - Structuring a project following best practices.
+
+## Future Improvements
+
+- Add JavaScript validation for stronger form checks.
+
+- Integrate backend support to store user data.
+
+- Improve accessibility with ARIA attributes.
+
+## Acknowledgements
+
+- Inspired by learning projects from The Odin Project.
+
+- Icons and fonts (if used) are from free resources.
