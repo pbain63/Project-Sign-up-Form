@@ -1,9 +1,56 @@
-# Project_Sign-up-Form
+# Project: Sign-up Form
 
-The project is an assignment from a section of "THE ODIN PROJECT". It has form layouts and designs, validating password fields that match each other with JavaScript, images, banner, footer positioning, and many more.
+![GitHub last commit](https://img.shields.io/github/last-commit/pbain63/Project-Sign-up-Form)
+![GitHub repo size](https://img.shields.io/github/repo-size/pbain63/Project-Sign-up-Form)
+![GitHub stars](https://img.shields.io/github/stars/pbain63/Project-Sign-up-Form?style=social)
 
-Live Preview Link:
+## 🔗 Live Demo
 
-https://pbain63.github.io/Project-Sign-up-Form/
+👉 [View Live Project](https://pbain63.github.io/Project-Sign-up-Form/)
 
-Technology: HTML5, CSS, JavaScript
+## 📌 About the Project
+
+This project is a **responsive sign-up form** built using **HTML5 and CSS3**.  
+It demonstrates form design, validation styling, and modern UI layout techniques.
+
+The goal of this project was to:
+
+- Practice semantic HTML5 form elements.
+- Apply CSS styling for responsive layouts.
+- Explore input states (focus, hover, invalid, etc.).
+- Improve user experience with clean and accessible design.
+
+## 🖼️ Preview
+
+![Project Preview](./preview.png)  
+_(Tip: Add a screenshot of your project as `preview.png` inside the repo root for better presentation.)_
+
+## ⚙️ Features
+
+- ✅ Responsive layout (desktop & mobile friendly)
+- ✅ Semantic and accessible HTML form structure
+- ✅ CSS styling with modern practices
+- ✅ Input validation states with visual feedback
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3** (Flexbox/Grid for layout)
+
+## 🚀 Getting Started
+
+To view or modify the project locally:
+
+1. Clone the repo:
+
+   ```
+   git clone https://github.com/pbain63/Project-Sign-up-Form.git
+   ```
+
+2. Open the project folder:
+
+```
+cd Project-Sign-up-Form
+```
+
+3. Open index.html in your browser.
