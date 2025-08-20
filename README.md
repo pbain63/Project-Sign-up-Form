@@ -1,16 +1,14 @@
 # Project: Sign-up Form
 
-![GitHub last commit](https://img.shields.io/github/last-commit/pbain63/Project-Sign-up-Form)
+<!-- ![GitHub last commit](https://img.shields.io/github/last-commit/pbain63/Project-Sign-up-Form)
 ![GitHub repo size](https://img.shields.io/github/repo-size/pbain63/Project-Sign-up-Form)
-![GitHub stars](https://img.shields.io/github/stars/pbain63/Project-Sign-up-Form?style=social)
+![GitHub stars](https://img.shields.io/github/stars/pbain63/Project-Sign-up-Form?style=social) -->
 
-## Live Demo
-
-👉 [View Live Project](https://pbain63.github.io/Project-Sign-up-Form/)
+## [Live Demo](https://pbain63.github.io/Project-Sign-up-Form/)
 
 ## About the Project
 
-This project is a **responsive sign-up form** built using **HTML5 and CSS3**.  
+This project is a **responsive sign-up form** built using **HTML5, CSS3, and JavaScript**.  
 It demonstrates form design, validation styling, and modern UI layout techniques.
 
 The goal of this project was to:
@@ -22,20 +20,20 @@ The goal of this project was to:
 
 ## Preview
 
-![Project Preview](./preview.png)  
-_(Tip: Add a screenshot of your project as `preview.png` inside the repo root for better presentation.)_
+![Project Preview](./preview.png)
 
 ## Features
 
-- ✅ Responsive layout (desktop & mobile friendly)
-- ✅ Semantic and accessible HTML form structure
-- ✅ CSS styling with modern practices
-- ✅ Input validation states with visual feedback
+- Responsive layout (desktop & mobile friendly)
+- Semantic and accessible HTML form structure
+- CSS styling with modern practices
+- Input validation states with visual feedback
 
 ## Built With
 
 - **HTML5**
 - **CSS3** (Flexbox/Grid for layout)
+- **JavaScript**
 
 ## Getting Started
 
@@ -49,9 +47,9 @@ To view or modify the project locally:
 
 2. Open the project folder:
 
-```
-cd Project-Sign-up-Form
-```
+   ```
+   cd Project-Sign-up-Form
+   ```
 
 3. Open index.html in your browser.
 
@@ -84,7 +82,7 @@ Project-Sign-up-Form/
 
 - Inspired by learning projects from The Odin Project.
 
-- Icons and fonts (if used) are from free resources.
+- Fonts and images are from free resources.
 
 ## License
 
