@@ -4,11 +4,11 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/pbain63/Project-Sign-up-Form)
 ![GitHub stars](https://img.shields.io/github/stars/pbain63/Project-Sign-up-Form?style=social)
 
-## 🔗 Live Demo
+## Live Demo
 
 👉 [View Live Project](https://pbain63.github.io/Project-Sign-up-Form/)
 
-## 📌 About the Project
+## About the Project
 
 This project is a **responsive sign-up form** built using **HTML5 and CSS3**.  
 It demonstrates form design, validation styling, and modern UI layout techniques.
@@ -20,24 +20,24 @@ The goal of this project was to:
 - Explore input states (focus, hover, invalid, etc.).
 - Improve user experience with clean and accessible design.
 
-## 🖼️ Preview
+## Preview
 
 ![Project Preview](./preview.png)  
 _(Tip: Add a screenshot of your project as `preview.png` inside the repo root for better presentation.)_
 
-## ⚙️ Features
+## Features
 
 - ✅ Responsive layout (desktop & mobile friendly)
 - ✅ Semantic and accessible HTML form structure
 - ✅ CSS styling with modern practices
 - ✅ Input validation states with visual feedback
 
-## 🛠️ Built With
+## Built With
 
 - **HTML5**
 - **CSS3** (Flexbox/Grid for layout)
 
-## 🚀 Getting Started
+## Getting Started
 
 To view or modify the project locally:
 
@@ -54,3 +54,20 @@ cd Project-Sign-up-Form
 ```
 
 3. Open index.html in your browser.
+
+## Project Structure
+
+Project-Sign-up-Form/
+│── index.html # Main HTML file
+│── style.css # Stylesheet
+│── README.md # Project documentation
+
+## What I Learned
+
+- Using form elements effectively (input, label, select, etc.).
+
+- Applying CSS selectors for validation states.
+
+- Designing a user-friendly, accessible UI.
+
+- Structuring a project following best practices.
