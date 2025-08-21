@@ -6,6 +6,8 @@
 
 ## [Live Demo](https://pbain63.github.io/Project-Sign-up-Form/)
 
+---
+
 ## About the Project
 
 This project is a **responsive sign-up form** built using **HTML5, CSS3, and JavaScript**.  
@@ -18,22 +20,30 @@ The goal of this project was to:
 - Explore input states (focus, hover, invalid, etc.).
 - Improve user experience with clean and accessible design.
 
+---
+
 ## Preview
 
 ![Project Preview](./preview.png)
 
+---
+
 ## Features
 
-- Responsive layout (desktop & mobile friendly)
+- Responsive layout (desktop and mobile friendly)
 - Semantic and accessible HTML form structure
 - CSS styling with modern practices
 - Input validation states with visual feedback
+
+---
 
 ## Built With
 
 - **HTML5**
 - **CSS3** (Flexbox/Grid for layout)
 - **JavaScript**
+
+---
 
 ## Getting Started
 
@@ -53,12 +63,20 @@ To view or modify the project locally:
 
 3. Open index.html in your browser.
 
+---
+
 ## Project Structure
 
 Project-Sign-up-Form/
-│── index.html # Main HTML file
-│── style.css # Stylesheet
-│── README.md # Project documentation
+|-- css/styles.css   # Stylesheet
+|-- fonts         # Fonts
+|-- images        # Images
+|-- screenshots   # Screenshots of project
+│-- index.html    # Main HTML file
+│-- README.md     # Project documentation
+|-- script.js     # JavaScript file
+
+---
 
 ## What I Learned
 
@@ -70,6 +88,8 @@ Project-Sign-up-Form/
 
 - Structuring a project following best practices.
 
+---
+
 ## Future Improvements
 
 - Add JavaScript validation for stronger form checks.
@@ -78,11 +98,15 @@ Project-Sign-up-Form/
 
 - Improve accessibility with ARIA attributes.
 
+---
+
 ## Acknowledgements
 
 - Inspired by learning projects from The Odin Project.
 
 - Fonts and images are from free resources.
+
+---
 
 ## License
 
