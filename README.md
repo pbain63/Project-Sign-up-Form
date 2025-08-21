@@ -24,7 +24,9 @@ The goal of this project was to:
 
 ## Preview
 
-![Project Preview](./preview.png)
+| Desktop View                             | Mobile View                                |
+| ---------------------------------------- | ------------------------------------------ |
+| ![Desktop](screenshots/desktop-view.png) | ![Mobile](screenshots/smartphone-view.png) |
 
 ---
 
@@ -68,13 +70,13 @@ To view or modify the project locally:
 ## Project Structure
 
 Project-Sign-up-Form/
-|-- css/styles.css   # Stylesheet
-|-- fonts         # Fonts
-|-- images        # Images
-|-- screenshots   # Screenshots of project
-│-- index.html    # Main HTML file
-│-- README.md     # Project documentation
-|-- script.js     # JavaScript file
+|-- css/styles.css # Stylesheet
+|-- fonts # Fonts
+|-- images # Images
+|-- screenshots # Screenshots of project
+│-- index.html # Main HTML file
+│-- README.md # Project documentation
+|-- script.js # JavaScript file
 
 ---
 
